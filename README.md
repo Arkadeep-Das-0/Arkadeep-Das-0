@@ -2,7 +2,7 @@
 #### Computer Science Engineer
 ![Computer Science Engineer](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a%C2%B7-github-topics-a%C2%B7-github-cute-ghibli.jpg)
 
-I am a graduate from Computer Science,  eyeing to be a advance software developer in industry level. I have worked in **Full stack **project using **MERN**. Also I got experience in **Cryptography, Cybersecurity, Blockchain Technology** and **Data Science**.  
+I am a graduate from Computer Science,  eyeing to be an advance software developer in industry level. I have worked in **Full stack** project using **MERN**. Also I got experience in **Cryptography, Cybersecurity, Blockchain Technology** and **Data Science**.  
 
 Skills: Python, C++, Java, JS, REACT, HTML, CSS, SQL
 
