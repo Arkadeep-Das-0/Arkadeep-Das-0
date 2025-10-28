@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Arka
 #### Computer Science Engineer
-![Computer Science Engineer](https://c4.wallpaperflare.com/wallpaper/304/870/385/technology-git-github-hd-wallpaper-preview.jpg)
+![Computer Science Engineer]()
 
 I am a graduate from Computer Science,  eyeing to be a advance software developer in industry level. I have worked in **Full stack **project using **MERN**. Also I got experience in **Cryptography, Cybersecurity, Blockchain Technology** and **Data Science**.  
 
