@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Arka
 #### Computer Science Engineer
-![Computer Science Engineer]([https://rhisac.org/wp-content/uploads/github.jpg](https://github.com/EliteAsian123/MatrixWallpaper/raw/main/src_lively/preview.gif))
+![Computer Science Engineer](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a%C2%B7-github-topics-a%C2%B7-github-cute-ghibli.jpg)
 
 I am a graduate from Computer Science,  eyeing to be a advance software developer in industry level. I have worked in **Full stack **project using **MERN**. Also I got experience in **Cryptography, Cybersecurity, Blockchain Technology** and **Data Science**.  
 
